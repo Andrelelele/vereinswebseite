@@ -1,1 +1,1 @@
-# vereinswebseite für Klangkollektiv e.V.
+# Vereinswebseite für Klangkollektiv e.V.
